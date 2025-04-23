@@ -98,7 +98,7 @@ Certifique-se de incluir o arquivo `style.css` para estilizar a barra de progres
 
 ## Observação
 
-- A barra de progresso foi projetada para funcionar melhor no navegador **Google Chrome**.
+- A barra de progresso foi projetada para funcionar melhor no navegador **Google Chrome**. Você até pode tentar utilizar outros navegadores, porém pode ocasionar pequenas falhas de design responsivo na tela.
 - Para dispositivos móveis, o design é ajustado automaticamente.
 
 ## Contribuição
