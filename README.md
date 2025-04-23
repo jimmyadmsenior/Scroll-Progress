@@ -111,4 +111,4 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENS
 
 ## Contato
 
-Para mais informações, entre em contato com [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+Para mais informações, entre em contato com meu e-mail: jimmycastilho555@gmail.com
